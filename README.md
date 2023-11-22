@@ -64,7 +64,8 @@ The sales Dashboard was created in Tableau Public Software which answers the pro
 
 https://public.tableau.com/app/profile/yash.bajaj6473/viz/Book13_16952010894620/Dashboard1?publish=yes
 
-![image](https://github.com/yash-9300/Sales_Data_Analysis/assets/142987184/f2e0f382-196a-4294-9f9c-68dcebe8befe)
+![image](https://github.com/yash-9300/Sales_Data_Analysis0/assets/142987184/8b5fdee1-80e1-4585-af89-621b012b5c7d)
+
 
 
 
